@@ -1,4 +1,4 @@
-package com.bridgelabz.demo.com.bridgelabz.demo.practice;
+package com.bridgelabz.demo.practice;
 
 import com.bridgelabz.demo.annotations.StudentCourse;
 import com.bridgelabz.demo.models.Student;
